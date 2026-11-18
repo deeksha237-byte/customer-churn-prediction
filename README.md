@@ -1,6 +1,8 @@
 
 # Telecom Customer Churn Prediction
 
+🚀 **Live Demo:** https://customer-churn-prediction-24.streamlit.app/
+
 ## Project Overview
 This project uses machine learning to predict whether a telecom customer is likely to leave the company (churn).
 
